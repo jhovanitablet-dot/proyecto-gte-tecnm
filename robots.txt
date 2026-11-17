@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /admin.php
+Disallow: /conexion.php
+Disallow: /auth.php
+Disallow: /guardar_pedido.php
+
+Sitemap: https://tu-dominio-en-render.onrender.com/sitemap.php
